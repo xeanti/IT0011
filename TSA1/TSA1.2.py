@@ -18,7 +18,7 @@ def count_chars(string):
             digit_sum += int(char)
         else:
             other_chars += 1
-    
+
     print(f"Vowels: {vowel_count}")
     print(f"Consonants: {consonant_count}")
     print(f"Spaces: {spaces}")
