@@ -6,7 +6,7 @@ def count_chars(string):
     consonant_count = 0
     other_chars = 0
     digit_sum = 0
-    
+
     for char in string:
         if char in vowels:
             vowel_count += 1
