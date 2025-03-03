@@ -1,0 +1,6 @@
+Last Name: Sean
+First Name: Timothy
+Age: 18
+Contact Number: 0908752431
+Course: BSIT-WMA
+
